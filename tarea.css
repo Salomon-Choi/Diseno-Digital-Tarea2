@@ -1,0 +1,65 @@
+section {
+    width: 50%; /* O el ancho deseado */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+ul{
+    list-style: none;
+}
+
+img{
+   margin: 1rem;
+
+}
+
+.card-body{
+    padding-left: 2rem;
+}
+
+h1{
+    background-color:#42A5F5;
+    padding: 2rem;
+    color: whitesmoke;
+
+}
+
+body{
+    background-color: #CFD8DC;
+}
+
+.border{
+ border-radius: 2rem;
+ padding: 0.5rem;
+}
+
+li{
+    margin: 3rem;
+}
+
+
+
+.footer{
+    background-color:#2f88d1 ;
+}
+
+.programas2{
+    width: 20%;
+    padding-bottom:1rem ;
+    margin-right: 1rem;
+}
+
+.contacto{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.p-2{
+    color: whitesmoke;
+    font-size: larger;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke
+}
